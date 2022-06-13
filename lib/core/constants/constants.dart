@@ -1,0 +1,40 @@
+import 'package:flutter/material.dart';
+
+const String kBaseUrl = 'https://test.com/';
+const int kConnectTimeout = 50000;
+const int kReceiveTimeout = 50000;
+const int kSendPhotosConnectTimeout = 120000;
+const int kSendPhotosReceiveTimeout = 120000;
+const String kUnknownInputCast = "Unknown Input Cast";
+const String faPrimaryFontFamily = 'iransans';
+const BouncingScrollPhysics mainScrollPhysics = BouncingScrollPhysics();
+
+const kMaxDigitsOfPhoneNum = 10;
+const kMaxLengthOfOTPCode = 5;
+const kCountDownSecondsOTP = 120;
+
+const kColorOffWhite = Color(0xffF6F6F8);
+const kColorDarkGray = Color(0xff303030);
+const kColorGrayDisable = Color(0xffEEEEEE);
+const kColorGray = Color(0xff707070);
+const kColorGray2 = Color(0xff505050);
+const kColorGray5 = Color(0xffD2D1D1);
+const kColorGreen = Color(0xff43CF53);
+const kColorGreen2 = Color(0xff85CFAD);
+const kColorPurple = Color(0xff5F5CF6);
+const kColorOffPurple = Color(0xffBDBDED);
+const kColorOffPurple2 = Color(0xffF2F1FE);
+const kColorRed = Color(0xffF24A37);
+const kColorRedSnackBar = Color(0xffec7b6b);
+const kBGToastDarkGreen = Color(0xff3eBE61);
+const textLightBlackColor = Color(0xff505050);
+const kBGToastLightGreen = Color(0xffEBF7EE);
+const kBGToastDarkBlue = Color(0xff006ce4);
+const kBGToastLightBlue = Color(0xffE5EFFA);
+const kBGToastDarkYellow = Color(0xffFC9C2E);
+const kBGToastLightYellow = Color(0xffFEF7EA);
+const kColorMainColor = Color(0xff019BA7); // Color(0xff8855aa);
+const kColorGrey = Color(0xff707070);
+const kColorGreyLight = Color(0xffcfcfd0);
+const kColorDarkRed = Color(0xffB00020);
+const kColorGreyButton = Color(0xffCFCFD0);
